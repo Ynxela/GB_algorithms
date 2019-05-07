@@ -3,7 +3,7 @@
 
 array = [i for i in range(2, 100)]
 
-numbers = {i: 0 for i in range(2, 9)}
+numbers = {i: 0 for i in range(2, 10)}
 
 for number in numbers:
     for item in array:

@@ -8,7 +8,7 @@ import random
 array = [random.randint(0, 100) for _ in range(100)]
 
 first_id = 0
-last_id = len(array) - 1
+last_id = len(array)
 
 even_idx = []
 
